@@ -33,88 +33,120 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: glass
+ action 1: glass holds water
+ action 2: glass holds beer
+ action 3: glass holds wine
  */
-
+glass.water;
+glass.beer;
+glass.wine;
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: pan
+ action 1: pan cooks chicken
+ action 2: pan cooks beef
+ action 3: pan cooks veggies
  */
+pan.chicken;
+pan.beef;
+pan.veggies;
 
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: dog
+ action 1: the dog licks
+ action 2: the dog smells
+ action 3: the dog bites
  */
-
+dog.lick;
+dog.smells;
+dog.bites;
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: ipad
+ action 1: check email
+ action 2: watch movies
+ action 3: do work
  */
+
+ipad.checkEmail;
+ipad.watchMovies;
+ipad.doWork;
 
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: knife
+ action 1: cut
+ action 2: slice
+ action 3: chop
  */
 
+knife.cut;
+knife.slice;
+knife.chop;
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: measuring cup
+ action 1: measure flour
+ action 2: measure water
+ action 3: measure oats
  */
+
+measure.flour;
+measure.water;
+measure.oats;
 
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: cutting board
+ action 1: cut chicken
+ action 2: cut carrots
+ action 3: cut celery 
  */
 
+cuttingBoard.chicken;
+cuttingBoard.carrots;
+cuttingBoard.celery;
+//Can you tell I'm doing this in my kitchen?!? haha!
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: medicine
+ action 1: take mucinex
+ action 2: take pseudoephedrine
+ action 3: take tylenol
  */
+medicine.takeMucinex;
+medicine.takePseudoephedrine;
+medicine.takeTylenol;
 
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: asparagus
+ action 1: throw away
+ action 2: eat
+ action 3: kill with fire
  */
 
+asparagus.throwAway;
+asparagus.eat;
+asparagus.killWithFire;
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: cpp Homework
+ action 1: Watch
+ action 2: Comeplete assignment
+ action 3: Push
  */
+
+cppHomework.watch;
+cppHomework.completeAssignment;
+cppHomework.push;
 
 
 #endif
