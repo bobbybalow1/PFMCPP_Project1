@@ -38,9 +38,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2: glass holds beer
  action 3: glass holds wine
  */
-glass.water;
-glass.beer;
-glass.wine;
+glass.water();
+glass.beer();
+glass.wine();
 
 /*
  2)
@@ -49,9 +49,9 @@ glass.wine;
  action 2: pan cooks beef
  action 3: pan cooks veggies
  */
-pan.chicken;
-pan.beef;
-pan.veggies;
+pan.chicken();
+pan.beef();
+pan.veggies();
 
 /*
  3)
@@ -60,9 +60,9 @@ pan.veggies;
  action 2: the dog smells
  action 3: the dog bites
  */
-dog.lick;
-dog.smells;
-dog.bites;
+dog.lick();
+dog.smells();
+dog.bites();
 
 /*
  4)
@@ -72,9 +72,9 @@ dog.bites;
  action 3: do work
  */
 
-ipad.checkEmail;
-ipad.watchMovies;
-ipad.doWork;
+ipad.checkEmail();
+ipad.watchMovies();
+ipad.doWork();
 
 /*
  5)
@@ -84,9 +84,9 @@ ipad.doWork;
  action 3: chop
  */
 
-knife.cut;
-knife.slice;
-knife.chop;
+knife.cut();
+knife.slice();
+knife.chop();
 
 /*
  6)
@@ -96,9 +96,9 @@ knife.chop;
  action 3: measure oats
  */
 
-measure.flour;
-measure.water;
-measure.oats;
+measure.flour();
+measure.water();
+measure.oats();
 
 /*
  7)
@@ -108,9 +108,9 @@ measure.oats;
  action 3: cut celery 
  */
 
-cuttingBoard.chicken;
-cuttingBoard.carrots;
-cuttingBoard.celery;
+cuttingBoard.chicken();
+cuttingBoard.carrots();
+cuttingBoard.celery();
 //Can you tell I'm doing this in my kitchen?!? haha!
 
 /*
@@ -120,9 +120,9 @@ cuttingBoard.celery;
  action 2: take pseudoephedrine
  action 3: take tylenol
  */
-medicine.takeMucinex;
-medicine.takePseudoephedrine;
-medicine.takeTylenol;
+medicine.takeMucinex();
+medicine.takePseudoephedrine();
+medicine.takeTylenol();
 
 /*
  9)
@@ -132,9 +132,9 @@ medicine.takeTylenol;
  action 3: kill with fire
  */
 
-asparagus.throwAway;
-asparagus.eat;
-asparagus.killWithFire;
+asparagus.throwAway();
+asparagus.eat();
+asparagus.killWithFire();
 
 /*
  10)
@@ -144,9 +144,9 @@ asparagus.killWithFire;
  action 3: Push
  */
 
-cppHomework.watch;
-cppHomework.completeAssignment;
-cppHomework.push;
+cppHomework.watch();
+cppHomework.completeAssignment();
+cppHomework.push();
 
 
 #endif
