@@ -38,20 +38,20 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2: glass holds beer
  action 3: glass holds wine
  */
-glass.holdWater();
-glass.holdBeer();
-glass.holdWine();
+glass.holdsWater();
+glass.holdsBeer();
+glass.holdsWine();
 
 /*
  2)
- Noun: pan
- action 1: pan cooks chicken
- action 2: pan cooks beef
- action 3: pan cooks veggies
+ Noun: chef
+ action 1: chef cooks chicken
+ action 2: chef cooks beef
+ action 3: chef cooks veggies
  */
-pan.cookChicken();
-pan.cookBeef();
-pan.cookVeggies();
+chef.cookChicken();
+chef.cookBeef();
+chef.cookVeggies();
 
 /*
  3)
@@ -66,15 +66,15 @@ dog.bite();
 
 /*
  4)
- Noun: ipad
- action 1: check email
- action 2: watch movies
- action 3: do work
+ Noun: email
+ action 1: send email
+ action 2: check for new email
+ action 3: delete email
  */
 
-ipad.checkEmail();
-ipad.watchMovies();
-ipad.doWork();
+email.send();
+email.checkNew();
+email.trash();
 
 /*
  5)
@@ -102,15 +102,15 @@ cup.measureOats();
 
 /*
  7)
- Noun: cutting board
- action 1: cut chicken
- action 2: cut carrots
- action 3: cut celery 
+ Noun: bowl
+ action 1: holds cereal
+ action 2: holds ingredients
+ action 3: breaks into pieces
  */
 
-cuttingBoard.chopChicken();
-cuttingBoard.chopCarrots();
-cuttingBoard.chopCelery();
+bowl.holdCereal();
+bowl.holdIngredients();
+bowl.break();
 //Can you tell I'm doing this in my kitchen?!? haha!
 
 /*
@@ -126,27 +126,27 @@ medicine.takeTylenol();
 
 /*
  9)
- Noun: asparagus
- action 1: throw away
- action 2: eat
- action 3: kill with fire
+ Noun: runner
+ action 1: put on shoes
+ action 2: put on shorts
+ action 3: record workout
  */
 
-asparagus.throwAway();
-asparagus.eat();
-asparagus.killWithFire();
+runner.putOnShoes();
+runner.putOnShorts();
+runner.recordWorkou();
 
 /*
  10)
- Noun: cpp Homework
- action 1: Watch
+ Noun: student
+ action 1: Watch video
  action 2: Comeplete assignment
- action 3: Push
+ action 3: Push assigment for grading
  */
 
-cppHomework.watch();
-cppHomework.completeAssignment();
-cppHomework.push();
+student.watchVideo();
+student.completeAssignment();
+student.pushAssignment();
 
 
 #endif
