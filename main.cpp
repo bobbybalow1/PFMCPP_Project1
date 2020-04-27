@@ -38,9 +38,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2: glass holds beer
  action 3: glass holds wine
  */
-glass.water();
-glass.beer();
-glass.wine();
+glass.holdWater();
+glass.holdBeer();
+glass.holdWine();
 
 /*
  2)
@@ -49,9 +49,9 @@ glass.wine();
  action 2: pan cooks beef
  action 3: pan cooks veggies
  */
-pan.chicken();
-pan.beef();
-pan.veggies();
+pan.cookChicken();
+pan.cookBeef();
+pan.cookVeggies();
 
 /*
  3)
@@ -61,8 +61,8 @@ pan.veggies();
  action 3: the dog bites
  */
 dog.lick();
-dog.smells();
-dog.bites();
+dog.smell();
+dog.bite();
 
 /*
  4)
@@ -96,9 +96,9 @@ knife.chop();
  action 3: measure oats
  */
 
-measure.flour();
-measure.water();
-measure.oats();
+cup.measureFlour();
+cup.measureWater();
+cup.measureOats();
 
 /*
  7)
@@ -108,9 +108,9 @@ measure.oats();
  action 3: cut celery 
  */
 
-cuttingBoard.chicken();
-cuttingBoard.carrots();
-cuttingBoard.celery();
+cuttingBoard.chopChicken();
+cuttingBoard.chopCarrots();
+cuttingBoard.chopCelery();
 //Can you tell I'm doing this in my kitchen?!? haha!
 
 /*
