@@ -33,88 +33,120 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: glass
+ action 1: glass holds water
+ action 2: glass holds beer
+ action 3: glass holds wine
  */
-
+glass.holdsWater();
+glass.holdsBeer();
+glass.holdsWine();
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: chef
+ action 1: chef cooks chicken
+ action 2: chef cooks beef
+ action 3: chef cooks veggies
  */
+chef.cookChicken();
+chef.cookBeef();
+chef.cookVeggies();
 
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: dog
+ action 1: the dog licks
+ action 2: the dog smells
+ action 3: the dog bites
  */
-
+dog.lick();
+dog.smell();
+dog.bite();
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: email
+ action 1: send email
+ action 2: check for new email
+ action 3: delete email
  */
+
+email.send();
+email.checkNew();
+email.trash();
 
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: knife
+ action 1: cut
+ action 2: slice
+ action 3: chop
  */
 
+knife.cut();
+knife.slice();
+knife.chop();
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: measuring cup
+ action 1: measure flour
+ action 2: measure water
+ action 3: measure oats
  */
+
+cup.measureFlour();
+cup.measureWater();
+cup.measureOats();
 
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: bowl
+ action 1: holds cereal
+ action 2: holds ingredients
+ action 3: breaks into pieces
  */
 
+bowl.holdCereal();
+bowl.holdIngredients();
+bowl.holdWater();
+//Can you tell I'm doing this in my kitchen?!? haha!
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: medicine
+ action 1: take mucinex
+ action 2: take pseudoephedrine
+ action 3: take tylenol
  */
+medicine.takeMucinex();
+medicine.takePseudoephedrine();
+medicine.takeTylenol();
 
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: runner
+ action 1: put on shoes
+ action 2: put on shorts
+ action 3: record workout
  */
 
+runner.putOnShoes();
+runner.putOnShorts();
+runner.recordWorkou();
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: student
+ action 1: Watch video
+ action 2: Comeplete assignment
+ action 3: Push assigment for grading
  */
+
+student.watchVideo();
+student.completeAssignment();
+student.pushAssignment();
 
 
 #endif
